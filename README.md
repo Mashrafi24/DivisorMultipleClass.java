@@ -1,7 +1,7 @@
 # DivisorMultipleClass.java
-package ict.22.ClassNames;
 
-public class DivisorMultipleClass {
+
+    public class DivisorMultipleClass {
 
     public static int gcd(int a, int b) {
         while(b != 0) {
